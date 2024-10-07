@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Game.Oynalar.gamePage3"
+             Title="ortga qaytish"
+             Background="White"
+             >
+    
+       
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                
+            </Grid.RowDefinitions>
+        <Label 
+            Grid.Row="0"
+            Text="O'yin boshlandi"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            FontAttributes="Bold"
+            FontSize="20"
+            TextColor="BlueViolet"
+            />
+        <Label 
+            x:Name="soni"
+            Grid.Row="2"
+            Text="0/20"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            FontAttributes="Bold"
+            FontSize="20"
+            TextColor="BlueViolet"
+/>
+        <Label 
+            x:Name="savol"
+            Grid.Row="4"
+            Text="Hello"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            FontAttributes="Bold"
+            FontSize="20"
+            TextColor="BlueViolet"
+       />
+
+        
+            <Button 
+                x:Name="Tugma1"
+                Grid.Row="7" 
+                Grid.Column="0"
+                BorderWidth="8"
+                Text="Salom"
+                FontSize="20"
+                FontAttributes="Bold"
+                Clicked="Tugma1_Clicked"
+                ></Button>
+            <Button
+                x:Name="Tugma2"
+                Grid.Row="8" 
+                Grid.Column="1" 
+                    BorderWidth="8"
+                    Text="Hayir"
+                    FontSize="20"
+                    FontAttributes="Bold"
+                Clicked="Tugma2_Clicked"
+                    ></Button>
+        
+            <Button 
+                x:Name="Tugma3"
+                    Grid.Row="9" 
+                    Grid.Column="0"
+                    BorderWidth="8"
+                    Text="Telefon"
+                    FontSize="20"
+                    FontAttributes="Bold"
+                Clicked="Tugma3_Clicked"
+         ></Button>
+            <Button
+                x:Name="Tugma4"
+                Grid.Row="10"
+                    Grid.Column="1" 
+             BorderWidth="8"
+             Text="Olma"
+             FontSize="20"
+             FontAttributes="Bold"
+                Clicked="Tugma4_Clicked"
+             ></Button>
+       
+       
+    </Grid>
+   
+</ContentPage>

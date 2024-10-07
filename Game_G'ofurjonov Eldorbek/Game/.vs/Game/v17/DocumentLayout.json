@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\oynalar\\gamepage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:oynalar\\gamepage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eldorbek\\AppData\\Local\\Xamarin\\Mono for Android\\Archives\\2024-04-19\\Game 4-19-24 9.29 AM.aabarchive\\archive.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\oynalar\\gamepage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:oynalar\\gamepage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\oynalar\\gamepage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:oynalar\\gamepage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\oynalar\\gamepage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:oynalar\\gamepage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\oynalar\\gamepage3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:oynalar\\gamepage3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\oynalar\\gamepage4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:oynalar\\gamepage4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\oynalar\\gamepage4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:oynalar\\gamepage4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\oynalar\\gamepage3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:oynalar\\gamepage3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eldorbek\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|c:\\users\\eldorbek\\desktop\\game_g\u0027ofurjonov eldorbek\\game\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC76C34-8F1A-4BDE-850C-98EBADE280D2}|Game.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Xamarin.Android.Common.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Common.targets",
+              "ViewState": "AQIAAPcJAAAAAAAAAAAvwP4JAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-19T13:19:07.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "archive.xml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\AppData\\Local\\Xamarin\\Mono for Android\\Archives\\2024-04-19\\Game 4-19-24 9.29 AM.aabarchive\\archive.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Xamarin\\Mono for Android\\Archives\\2024-04-19\\Game 4-19-24 9.29 AM.aabarchive\\archive.xml",
+              "ToolTip": "C:\\Users\\Eldorbek\\AppData\\Local\\Xamarin\\Mono for Android\\Archives\\2024-04-19\\Game 4-19-24 9.29 AM.aabarchive\\archive.xml",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Xamarin\\Mono for Android\\Archives\\2024-04-19\\Game 4-19-24 9.29 AM.aabarchive\\archive.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-19T06:44:09.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gamePage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage1.xaml.cs",
+              "RelativeDocumentMoniker": "Oynalar\\gamePage1.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage1.xaml.cs",
+              "RelativeToolTip": "Oynalar\\gamePage1.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:27:38.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gamePage2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage2.xaml.cs",
+              "RelativeDocumentMoniker": "Oynalar\\gamePage2.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage2.xaml.cs",
+              "RelativeToolTip": "Oynalar\\gamePage2.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:44:08.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gamePage3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage3.xaml.cs",
+              "RelativeDocumentMoniker": "Oynalar\\gamePage3.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage3.xaml.cs",
+              "RelativeToolTip": "Oynalar\\gamePage3.xaml.cs",
+              "ViewState": "AQIAAGwAAAAA6Pb////vv7kAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T02:53:27.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gamePage1.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage1.xaml",
+              "RelativeDocumentMoniker": "Oynalar\\gamePage1.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage1.xaml",
+              "RelativeToolTip": "Oynalar\\gamePage1.xaml",
+              "ViewState": "AQIAAGwAAACAl5mZmVkqwHUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-10T14:16:02.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gamePage4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage4.xaml.cs",
+              "RelativeDocumentMoniker": "Oynalar\\gamePage4.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage4.xaml.cs",
+              "RelativeToolTip": "Oynalar\\gamePage4.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:50:33.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gamePage2.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage2.xaml",
+              "RelativeDocumentMoniker": "Oynalar\\gamePage2.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage2.xaml",
+              "RelativeToolTip": "Oynalar\\gamePage2.xaml",
+              "ViewState": "AQIAABcAAABAcGZmZuYcwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-10T14:16:33.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "gamePage4.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage4.xaml",
+              "RelativeDocumentMoniker": "Oynalar\\gamePage4.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage4.xaml",
+              "RelativeToolTip": "Oynalar\\gamePage4.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-10T14:17:23.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-10T14:26:52.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:31:42.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gamePage3.xaml",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage3.xaml",
+              "RelativeDocumentMoniker": "Oynalar\\gamePage3.xaml",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\Oynalar\\gamePage3.xaml",
+              "RelativeToolTip": "Oynalar\\gamePage3.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-10T14:16:54.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "ToolTip": "C:\\Users\\Eldorbek\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "ViewState": "AQIAAHIBAAAAAAAAAAAewHkBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-10T14:24:53.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Eldorbek\\Desktop\\Game_G\u0027ofurjonov Eldorbek\\Game\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAQAAADg/////78twA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T14:26:40.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

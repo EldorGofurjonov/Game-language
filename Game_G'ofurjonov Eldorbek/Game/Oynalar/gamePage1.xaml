@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Game.Oynalar.gamePage1"
+             Title="   O'zingiz istagan so'zlarni yodlang"
+             BackgroundColor="White"
+             >
+
+    <ScrollView Padding="7" BackgroundColor="White">
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+                
+            <Label
+                HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Center"
+                Grid.Row="0" 
+                Grid.Column="0"
+                Text="Eng"
+                TextColor="Black"
+                Background="#FFCC99"
+                Padding="0"
+                FontAttributes="Bold"
+                FontSize="18"
+                TextTransform="Uppercase"
+                />
+                <Label
+                    HorizontalTextAlignment="Center"
+                    VerticalTextAlignment="Center"
+                    Grid.Row="0" 
+                    Grid.Column="1"
+                    Text="Uzb"
+                    TextColor="Black"
+                    Background="#FFCC99"
+                    Padding="0"
+                    FontAttributes="Bold"
+                    FontSize="18"
+                    TextTransform="Uppercase"
+                    />
+
+            <Editor x:Name="box1"  Grid.Row="1" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="afraid"/>
+            <Editor x:Name="box2" Grid.Row="1" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="qo'rqqan"/>
+            <Editor x:Name="box3" Grid.Row="2" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="agree"/>
+            <Editor x:Name="box4" Grid.Row="2" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="rozi bo'lmoq"/>
+            <Editor x:Name="box5" Grid.Row="3" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="angry"/>
+            <Editor x:Name="box6" Grid.Row="3" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="badjahl"/>
+            <Editor x:Name="box7" Grid.Row="4" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="arrive"/>
+            <Editor x:Name="box8" Grid.Row="4" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="kelmoq"/>
+            <Editor x:Name="box9" Grid.Row="5" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="attack"/>
+            <Editor x:Name="box10" Grid.Row="5" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center"  Text="hujum qilmoq"/>
+            <Editor x:Name="box11" Grid.Row="6" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center"  Text="bottom"/>
+            <Editor x:Name="box12" Grid.Row="6" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center"  Text="pastki qism"/>
+            <Editor x:Name="box13" Grid.Row="7" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center"  Text="clever"/>
+            <Editor x:Name="box14" Grid.Row="7" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center"  Text="aqlli"/>
+            <Editor x:Name="box15" Grid.Row="8" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center"  Text="cruel"/>
+            <Editor x:Name="box16" Grid.Row="8" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center"  Text="shafqatsiz"/>
+            <Editor x:Name="box17" Grid.Row="9" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center"  Text="finally"/>
+            <Editor x:Name="box18" Grid.Row="9" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center"  Text="axiyri"/>
+            <Editor x:Name="box19" Grid.Row="10" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="hide"/>
+            <Editor x:Name="box20" Grid.Row="10" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="yashirinmoq"/>
+            <Editor x:Name="box21" Grid.Row="11" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="hunt"/>
+            <Editor x:Name="box22" Grid.Row="11" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="ovlamoq"/>
+            <Editor x:Name="box23" Grid.Row="12" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="lot"/>
+            <Editor x:Name="box24" Grid.Row="12" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="juda ko'p"/>
+            <Editor x:Name="box25" Grid.Row="13" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="middle"/>
+            <Editor x:Name="box26" Grid.Row="13" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="o'rta"/>
+            <Editor x:Name="box27" Grid.Row="14" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="moment"/>
+            <Editor x:Name="box28" Grid.Row="14" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="sekund"/>
+            <Editor x:Name="box29" Grid.Row="15" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="pleased"/>
+            <Editor x:Name="box30" Grid.Row="15" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="hursand"/>
+            <Editor x:Name="box31" Grid.Row="16" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="promise"/>
+            <Editor x:Name="box32" Grid.Row="16" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="vade bermoq"/>
+            <Editor x:Name="box33" Grid.Row="17" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="reply"/>
+            <Editor x:Name="box34" Grid.Row="17" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="javob bermoq"/>
+            <Editor x:Name="box35" Grid.Row="18" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="safe"/>
+            <Editor x:Name="box36" Grid.Row="18" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="xavsiz"/>
+            <Editor x:Name="box37" Grid.Row="19" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="trick"/>
+            <Editor x:Name="box38" Grid.Row="19" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="hiyla"/>
+            <Editor x:Name="box39" Grid.Row="20" Grid.Column="0" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="well"/>
+            <Editor x:Name="box40" Grid.Row="20" Grid.Column="1" FontAttributes="Bold" TextColor="Black" FontSize="13" HorizontalTextAlignment="Center" Text="yaxshi"/>
+           
+            <Button 
+                Grid.Row="22" 
+                Grid.Column="0" 
+                Text="chiqish" 
+                VerticalOptions="Center" 
+                FontSize="18"
+                TextTransform="Uppercase"
+                Padding="0"
+                BorderWidth="2"
+                FontAttributes="Bold"
+                Clicked="Button_Clicked_1"
+                >
+        </Button>
+        <Button 
+                Grid.Row="22" 
+                Grid.Column="1" 
+                Text="boshlash" 
+                VerticalOptions="Center" 
+                FontSize="18"
+                TextTransform="Uppercase"
+                Padding="0"
+                BorderWidth="2"
+                FontAttributes="Bold"
+                Clicked="Button_Clicked"
+            >
+        </Button>
+        </Grid>
+    </ScrollView>
+</ContentPage>

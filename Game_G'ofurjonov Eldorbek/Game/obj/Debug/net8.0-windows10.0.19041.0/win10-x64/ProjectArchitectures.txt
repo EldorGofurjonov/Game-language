@@ -1,0 +1,1 @@
+C:\Users\eldorbek\source\repos\Game\Game.csproj;x64

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Game.Oynalar.gamePage2"
+             Title="ortga qaytish"
+             Background="White"
+             >
+        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                
+            </Grid.ColumnDefinitions>
+        <Label 
+            Grid.Row="1"
+    Text="O'yin turini tanlang."
+    VerticalOptions="Center" 
+    HorizontalOptions="Center" 
+            FontAttributes="Bold"
+FontSize="20"
+          TextColor="BlueViolet"  />
+        <Button 
+            x:Name="engUzb"
+        Grid.Row="2" Grid.Column="0"
+        Text="ENGLISH-UZBEK" 
+        VerticalOptions="Center" 
+        FontSize="18"
+        TextTransform="Uppercase"
+        Padding="15"
+        BorderWidth="2"
+        FontAttributes="Bold"
+        Clicked="Button_Clicked"
+        HorizontalOptions="Center"
+    >
+            </Button>
+            <Button 
+    Grid.Row="3" Grid.Column="0" 
+    Text="UZBEK-ENGLISH" 
+    VerticalOptions="Center" 
+    FontSize="18"
+    TextTransform="Uppercase"
+    Padding="15"
+    BorderWidth="2"
+    FontAttributes="Bold"
+    Clicked="Button_Clicked_1"
+    HorizontalOptions="Center"
+>
+            </Button>
+        </Grid>
+</ContentPage>
